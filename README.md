@@ -1,3 +1,4 @@
+My fork
 The Bitcoin.com wallet is a fork of the Copay Wallet (https://github.com/bitpay/copay).
 
 The Bitcoin.com wallet is a secure bitcoin wallet platform for both desktop and mobile devices. It uses [Bitcore Wallet Service](https://github.com/Bitcoin-com/bitcore-wallet-service) (our fork of the [Bitpay Bitcore Wallet Service](https://github.com/bitpay/bitcore-wallet-service)) (BWS) for peer synchronization and network interfacing.
